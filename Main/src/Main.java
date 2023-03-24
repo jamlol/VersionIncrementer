@@ -66,7 +66,7 @@ public class Main {
 
     /**
      * stringMaker function takes in a array of Strings and turns it into a String
-     * with "." between each character.
+     * with "." between each character. Helper function for the increment functions.
      *
      * @param versionValues
      * @return String result of combined version
